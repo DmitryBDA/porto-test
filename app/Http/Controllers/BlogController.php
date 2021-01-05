@@ -14,6 +14,8 @@ class BlogController extends Controller
 
         $c = $a + $b;
 
+        $d = 33;
+
         return 'blog';
     }
 }
