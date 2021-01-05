@@ -16,6 +16,8 @@ class BlogController extends Controller
 
         $d = 33;
 
+        $er = 3434;
+
         $dfdf = 343434343434;
 
         return 'blog';
