@@ -8,18 +8,5 @@ class BlogController extends Controller
 {
     public function index() {
 
-        $a = 3;
-
-        $b = $a;
-
-        $c = $a + $b;
-
-        $d = 33;
-
-        $er = 3434;
-
-        $dfdf = 343434343434;
-
-        return 'blog';
     }
 }
